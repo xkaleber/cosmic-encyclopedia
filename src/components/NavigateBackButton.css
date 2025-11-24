@@ -1,0 +1,13 @@
+.navigate-back-button {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
